@@ -3,7 +3,7 @@ Making a simplified version of Makefile, with options -f -n -B -m,
 which their syntax are described below.
 
 How to compile the program:
-Type in make in the shell
+Type in make in the shell, and type in make clean to delete produced files.
 
 How to use the program from the shell
 ./make4061		( Execute the first target )
