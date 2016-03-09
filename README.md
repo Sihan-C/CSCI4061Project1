@@ -9,8 +9,8 @@ How to use the program from the shell
 ./make4061		( Execute the first target )
 ./make4061 targetname	( Execute the targetname from the makefile )
 ./make4061 -f filename	( Execute the specified makefile, filename )
-./make4061 -n 	( Display all the commands without execute them )
-./make4061 -B	( Commpile the program without check the timestamp )
+./make4061 -n 		( Display all the commands without execute them )
+./make4061 -B		( Commpile the program without check the timestamp )
 ./make4061 -m log.txt	( Redirect output to log.txt file )
 
 Additional Instructions 
